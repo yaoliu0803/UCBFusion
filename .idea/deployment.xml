@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ly2024@10.33.7.248:21122">
+    <serverData>
+      <paths name="dpcn">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hd_derf">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ly2024/Code/DREFusion" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="hd_fuwuqi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ly2024/Code/PAMRFuse" local="$PROJECT_DIR$/../../paperWithCode/PAMRFuse" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liuyao@10.33.7.248:21622 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liuyao_fuwuqi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ly2024/Code/DREFusion" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ly2024@10.33.7.248:21122">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ly2024/Code/DREFusion" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ly2024_umf_cmgr">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ly_mart">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ly_metric">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
