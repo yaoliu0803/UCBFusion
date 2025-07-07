@@ -18,4 +18,4 @@ You can see the parameter configuration of the paper in `./opts.py`
 - Test, select the file according to your needs, run `./test.py` or `./test_more.py` or `./test_mri_pet.py`
 
 ## ***4.Citation***
-If you have any questions, please create an issue or email to me [liuyao_0803@163.com](liuyao_0803@163.com) .
+If you have any questions, please create an issue or email to [liuyao_0803@163.com](liuyao_0803@163.com).
